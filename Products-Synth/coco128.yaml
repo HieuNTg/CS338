@@ -1,0 +1,7 @@
+train: /content/Products-Synth/train  
+val:  /content/Products-Synth/validation
+test: /content/Products-Synth/test
+
+# Classes
+names:
+  0: date
