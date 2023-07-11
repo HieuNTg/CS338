@@ -38,6 +38,7 @@ def main():
               <style>
               .stButton>button {
                   margin-top: 30px;
+                  width: 100%;
               }
               </style>
               """,
