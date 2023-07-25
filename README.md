@@ -1,6 +1,4 @@
-# CS338
-
-ĐỒ ÁN: Date Recognition in Products
+#  Date Recognition in Products
 
 Nhóm:
 
