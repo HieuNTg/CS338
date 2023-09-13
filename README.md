@@ -1,13 +1,13 @@
 #  Date Recognition in Products
 
-##Group:
+## Group:
 
     Nguyễn Trung Hiếu
     
     Đặng Văn Duy
 
 
-##Describe:
+## Describe:
   - Input: A image contains expiration date 
   - Output: Print the expiration date to the screen
 
