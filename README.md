@@ -26,7 +26,7 @@
 
 ## Pipline
    <p align="center">
-     <img width="1024" alt="image" src="https://github.com/HieuNTg/Date-Recognition/assets/96096473/b5c758ed-fcb5-4e10-a2c8-a71720b8865a">
+     <img width="604" alt="image" src="https://github.com/HieuNTg/Date-Recognition/assets/96096473/b5c758ed-fcb5-4e10-a2c8-a71720b8865a">
     </p>
 
 
