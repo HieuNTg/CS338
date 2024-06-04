@@ -29,8 +29,10 @@
 => Train the model to recognize the area containing the expiration date, month, and year on the product.
 
 ## Pipline
+   <p align="center">
+     <img width="355" alt="image" src="https://github.com/HieuNTg/Date-Recognition/assets/96096473/b5c758ed-fcb5-4e10-a2c8-a71720b8865a">
+    </p>
 
-![image](https://github.com/HieuNTg/Date-Recognition/assets/96096473/d099d802-15ea-4529-8eac-a8a3d6a84bda)
 
 ## Result
 - Detect
