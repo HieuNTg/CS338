@@ -1,11 +1,5 @@
 #  Date Recognition in Products
 
-## Group:
-
-    Nguyễn Trung Hiếu
-    
-    Đặng Văn Duy
-
 
 ## Describe:
   - Input: A image contains expiration date 
