@@ -20,12 +20,14 @@
     - Traning: 89957 images
     - Validation: 25702 images
     - Test: 12851
+  
 => Train and perform the task of recognizing text from images.
 
 - Products-Synth dataset: 11,860 single images taken directly of products with expiration dates visible:
     - Traning: 8300 images
     - Validation: 2371 images
     - Test: 1187
+
 => Train the model to recognize the area containing the expiration date, month, and year on the product.
 
 ## Pipline
