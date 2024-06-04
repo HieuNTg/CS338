@@ -11,7 +11,7 @@
   - Input: A image contains expiration date 
   - Output: Print the expiration date to the screen
 
-<img width="604" alt="image" src="https://github.com/HieuNTg/Date-Recognition/assets/96096473/23da4d31-45d7-4824-96bd-3b2aa25b090f">
+<img align="center" width="604" alt="image" src="https://github.com/HieuNTg/Date-Recognition/assets/96096473/23da4d31-45d7-4824-96bd-3b2aa25b090f">
 
 ## Dataset:
 - Date-Synth dataset: 128510 single images, taken day, month, year: 
@@ -35,7 +35,7 @@
       ![image](https://github.com/HieuNTg/Date-Recognition/assets/96096473/e3e831fa-b112-439f-8f3f-7ad5f7aa7345)
 
 - Text Recognition
-        <img width="325" alt="image" src="https://github.com/HieuNTg/Date-Recognition/assets/96096473/0c8f2223-ef85-43cc-a957-2865861b330a">
+        <img align="center" width="325" alt="image" src="https://github.com/HieuNTg/Date-Recognition/assets/96096473/0c8f2223-ef85-43cc-a957-2865861b330a">
 
 ## Instructions:
 - Please git clone repository
