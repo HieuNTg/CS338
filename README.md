@@ -11,7 +11,7 @@
   - Input: A image contains expiration date 
   - Output: Print the expiration date to the screen
 <p align="center">
-  <img  width="604" alt="image" src="https://github.com/HieuNTg/Date-Recognition/assets/96096473/23da4d31-45d7-4824-96bd-3b2aa25b090f">
+  <img  width="1024" alt="image" src="https://github.com/HieuNTg/Date-Recognition/assets/96096473/23da4d31-45d7-4824-96bd-3b2aa25b090f">
 </p>
 
 
